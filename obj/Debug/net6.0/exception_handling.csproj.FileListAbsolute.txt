@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\bin\Debug\net6.0\exception_handling.exe
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\bin\Debug\net6.0\exception_handling.deps.json
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\bin\Debug\net6.0\exception_handling.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\bin\Debug\net6.0\exception_handling.dll
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\bin\Debug\net6.0\exception_handling.pdb
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.dll
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\refint\exception_handling.dll
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.pdb
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\exception_handling.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Belgeler\Patika_pratikler\exception_handling\obj\Debug\net6.0\ref\exception_handling.dll
